@@ -1,6 +1,6 @@
 {
   "name": "KOYN Mainnet Token List",
-  "logoURI": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
+  "logoURI": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.png",
   "keywords": [
     "KOYN", "mainnet"
   ],
@@ -17,8 +17,8 @@
   "tokens": [
     {
       "name": "KOYN",
-      "logo_sm": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
-      "logo_lg": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
+      "logo_sm": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.png",
+      "logo_lg": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.png",
       "symbol": "KOYN",
       "account": "eosio.token"
     }
