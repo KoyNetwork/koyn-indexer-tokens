@@ -1,0 +1,31 @@
+{
+  "name": "KOYN Testnet Token List",
+  "logoURI": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
+  "keywords": [
+    "KOYN", "testnet"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "koyn": {
+      "name": "KOYN Native",
+      "description": "Tokens that are native to KOYN."
+    }
+  },
+  "tokens": [
+    {
+      "name": "KOYN TESTNET",
+      "logo_sm": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
+      "logo_lg": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
+      "symbol": "KOYN",
+      "account": "eosio.token"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
