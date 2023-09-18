@@ -1,6 +1,6 @@
 {
   "name": "KOYN Testnet Token List",
-  "logoURI": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
+  "logoURI": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyntest.png",
   "keywords": [
     "KOYN", "testnet"
   ],
@@ -17,8 +17,8 @@
   "tokens": [
     {
       "name": "KOYN TESTNET",
-      "logo_sm": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
-      "logo_lg": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyn.svg",
+      "logo_sm": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyntest.png",
+      "logo_lg": "https://raw.githubusercontent.com/KoyNetwork/koyn-indexer-tokens/main/logos/koyntest.png",
       "symbol": "KOYN",
       "account": "eosio.token"
     }
